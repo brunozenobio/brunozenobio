@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Programacion en java,base de datos, y frontend**
-
-- 👨‍💻 All of my projects are available at [https://brunozenobio.github.io/bz-portafolio.github.io/](https://brunozenobio.github.io/bz-portafolio.github.io/)
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **brunozenobio4@gmail.com**
 
