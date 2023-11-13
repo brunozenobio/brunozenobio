@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[brunozenobio](https://www.linkedin.com/in/brunozenobio/)" target="blank"><img align="center" src="https://iconos8.es/icon/13930/linkedin" alt="bruno zenobio" height="30" width="40" /></a>
+<a href="[brunozenobio](https://www.linkedin.com/in/brunozenobio/)" target="blank"><img align="center" src="" alt="bruno zenobio" height="30" width="40" /><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
