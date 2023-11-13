@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Zenobio</h1>
-<h3 align="center">Soy un Data Scientist.</h3>
+<h3 align="center">Soy un Data Scientist con mucha pasión en la progrmación.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunozenobio&label=Profile%20views&color=0e75b6&style=flat" alt="brunozenobio" /> </p>
 
