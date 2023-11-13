@@ -9,8 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a  href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">LinkedIn</a> icon by <a href="https://icons8.com">Icons8</a>
-</p>
+<a  href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">LinkedIn</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
